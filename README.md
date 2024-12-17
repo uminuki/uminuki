@@ -4,5 +4,4 @@ Welcome to my Spatial Science Portfolio!
 I'm Katelyn Dizon, an undergraduate student in University of the Philippines - Diliman
 
 ### Projects
-[Spatial Data Management in Python]
-[Spatial Regression in Python]
+[a relative link](Spatial Data Management.py)
