@@ -1,0 +1,5 @@
+title: Katelyn Dizon
+show_downloads: true
+remote_theme: pages-themes/minima@v0.2.0
+plugins:
+- jeyyll-remote-theme
